@@ -23,7 +23,7 @@ local UIAspectRatioConstraint_8 = Instance.new("UIAspectRatioConstraint")
 local moneyTextLabel = Instance.new("TextLabel")
 local UIAspectRatioConstraint_9 = Instance.new("UIAspectRatioConstraint")
 
--- Properties (Fill these with the properties from your original GUI script)
+-- Kobes Gui
 
 -- Main AutoFarm Script:
 
@@ -52,7 +52,7 @@ local Players = game:GetService("Players")
 local Cashiers = workspace.Cashiers
 local Player = Players.LocalPlayer
 
--- Add your GUI scripts here as needed...
+-- GUI.
 
 loadstring(game:HttpGet("https://github.com/applless/RandomScripts/raw/main/AntiAfk"))()
 pcall(function()
